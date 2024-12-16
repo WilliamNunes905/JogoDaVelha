@@ -1,4 +1,4 @@
-## 🎯 Propósito do Projeto
+## 🎯 Descrição do Projeto
 
 O projeto é uma iniciativa da Hackathon de Dezembro de 2024 da Turma 4 do **Programa 1000Devs** pela [mesttra](https://www.mesttra.com/) em parceria com a [Johnson & Johnson Medtech](https://www.jnjmedtech.com/pt-br) e o [Hospital Israelita Albert Einstein](https://www.einstein.br/n/). O Professor [Rogério de Freitas](https://www.linkedin.com/in/rogerio-freitas-ribeiro-690a9712/) organizou o evento para ser um Jogo da Velha com desafios técnicos e de lógica, onde os participantes devem integrar as funcionalidades em equipe.
 
@@ -19,7 +19,7 @@ O projeto é uma iniciativa da Hackathon de Dezembro de 2024 da Turma 4 do **Pro
 - **Verificação de Vencedor** - O jogo verifica automaticamente se há um vencedor após cada jogada.
 - **Reinício de Jogo** - Permite que os jogadores reiniciem uma nova partida após o término.
 
-## 📓 Documentação
+## 📓 Estrutura do Projeto
 ```bash
 JogoDaVelha/
 ├── lib/                      # Bibliotecas externas
